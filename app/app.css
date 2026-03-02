@@ -3645,8 +3645,6 @@ article.markdown-section {
   display: flex;
   flex-direction: column;
   gap: 3px;
-  flex: 1 1 auto;
-  width: 0;
   min-width: 0;
   line-height: 1.35;
   font-size: 11px;
